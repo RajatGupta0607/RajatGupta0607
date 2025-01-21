@@ -28,5 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatgupta0607&show_icons=true&locale=en" alt="rajatgupta0607" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4030065" style='border:none;'></iframe>
-
